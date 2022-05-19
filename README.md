@@ -4,4 +4,4 @@
  </div>
 
 # iOS_Bootcamp_examples
-Learn to Swift while building apps - With IOS Development Bootcamp
+Learn to Swift while building 10+ small apps - With IOS Development Bootcamp
