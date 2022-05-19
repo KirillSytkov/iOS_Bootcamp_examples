@@ -8,7 +8,6 @@ Learn to Swift while building 10+ small apps - With IOS Development Bootcamp
 
 - [Dice](Dice/)
 - [Egg Timer](EggTimer/)
-- [Magic 8 Ball](Magic 8 Ball/)
 - [Xylophone](Xylophone/)
 - [Destini](Destini/)
 - [ByteCoin](ByteCoin/)
@@ -18,4 +17,3 @@ Learn to Swift while building 10+ small apps - With IOS Development Bootcamp
 - [Calculator](Calculator/)
 - [Clima](Clima/)
 - [Todoey](Todoey/)
-- [H4XOR News SwiftUI](H4XOR News (SwiftUI)/)
